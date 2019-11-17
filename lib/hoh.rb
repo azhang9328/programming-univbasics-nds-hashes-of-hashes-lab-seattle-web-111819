@@ -55,9 +55,9 @@ def naming_system
               :label => "Genus",
               :sub_category => {
                 :label => "Species",
-                :sub_category => {
-                  puts say nil
-                }
+                :sub_category => "nil"
+                  
+                
               }
             }
           }
